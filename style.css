@@ -180,6 +180,7 @@
     color: #fff;
 }
 
+
 .check a:hover {
     text-decoration: underline;
 }
@@ -223,4 +224,8 @@ button:active {
 
 .sign-up a:hover {
     text-decoration: underline;
+}
+
+button:hover {
+    background-color: aqua;
 }
